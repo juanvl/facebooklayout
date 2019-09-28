@@ -1,0 +1,23 @@
+.comment{
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.comment-author-avatar{
+  border-radius: 50%;
+  width: 32px;
+  height: 32px;
+}
+.comment-box{
+  background: #EEEEEE;
+  border-radius: 20px;
+  padding: 10px 15px;
+  margin-left: 10px;
+}
+.comment-content{
+  font-family: Helvetica;
+  font-style: normal;
+  font-size: 13px;
+  line-height: 20px;
+  color: #3E3E3E;
+}
